@@ -1,0 +1,1 @@
+# znit-dead-link-check
